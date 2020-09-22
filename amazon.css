@@ -1,0 +1,43 @@
+        .checked {
+            color: orangered;
+        }
+
+        section {
+            position: relative;
+            top: 4.5em;
+        }
+
+        .container-fluid {
+            margin: 1px;
+        }
+
+        .desc h5 .glyphicon {
+            color: #5cb85c;
+        }
+
+        .desc .breadcrumb {
+            padding-left: 0;
+        }
+
+        .desc button:hover {
+            background-color: #fff;
+            border: 1px solid #2874f0;
+            color: #2874f0;
+        }
+
+
+        .btn:hover {
+
+            color: black;
+
+        }
+          .contact {
+    padding: 130px 0;
+}
+ .heading h2 {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+
+}
